@@ -36,12 +36,17 @@ export default {
         data: [
           {
             title: 'GitHub repo',
-            value: 'https://github.com/leonardolouie/sanity-gatsby-portfolio-juanabee',
+            value: 'https://github.com/juanabee/juanabee',
             category: 'Code'
           },
           {
             title: 'Frontend',
-            value: 'https://sanity-gatsby-portfolio-juanabee.netlify.com',
+            value: 'https://juanabee-web.netlify.com/',
+            category: 'apps'
+          },
+          {
+            title: 'Studio',
+            value: 'https://juanabee-studio.netlify.com/',
             category: 'apps'
           }
         ]
